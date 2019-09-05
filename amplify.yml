@@ -38,3 +38,4 @@ frontend:
   cache:
     paths:
       - node_modules/**/*
+- export TMDB_API_KEY=<d7fbe79f1252a2e9921b0d6be090d9e9>
